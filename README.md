@@ -23,3 +23,16 @@ Once you've setup your database and your configuration (see below) is complete, 
 + [PaulSonOfLars](https://github.com/PaulSonOfLars) All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 + [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)
 + [Kigyō](https://github.com/Dank-del/EnterpriseALRobot)
+
+
+
+
+
+
+
+
+
+
+my deployment 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ashui501/KaiV2"> <img 
+src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
